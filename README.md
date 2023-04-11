@@ -1,2 +1,2 @@
-# AutoPoster
+# AutoGPT-WordPress
  
