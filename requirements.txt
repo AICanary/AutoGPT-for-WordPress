@@ -1,0 +1,11 @@
+requests
+pywhatkit
+configparser
+slugify
+bs4
+emoji
+openai
+markdown
+chatGPT-debugger
+bing-image-downloader
+
